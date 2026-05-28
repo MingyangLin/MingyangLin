@@ -6,11 +6,11 @@
 
 - I'm learning the basic knowledge of computer science via this [book](https://csdiy.wiki/).
 
-- I'm striving for self-improvement.
+## Featured Project
 
-- I'm currently implementing [`KGHO-WCLL`](https://github.com/xiaolefrank/WCLL).
+- [`AET-WCLL`](https://github.com/xiaolefrank/WCLL) : a weakly supervised cell-localization project that turns image-level classification evidence into localization masks with adaptive thresholding and post-processing. I built the training, inference, and evaluation pipeline as my main recent research-oriented project.
 
-I'm currently learning:
+## Currently learning
 
 - [ ] [Web development](https://weblab.mit.edu/schedule)
 - [ ] Computer Networking
@@ -24,17 +24,3 @@ I'm currently learning:
 *I believe that computer science have its unique charm,which can be described as:*
 
 ***While an ugly interface has to be memorized,a beautiful design can be understood.***
-
-<!--
-**xiaolefrank/xiaolefrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
