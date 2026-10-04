@@ -1,26 +1,28 @@
 # About me :) 👋
 
-- I'm a college student major in automation and I have a strong interest in computer science.
+- You can call me ***frank***.
 
-- I'm novice `Linux` user, and I have basis of `python`,`C`,`Java` and `markdown`.
-
-- I'm learning the basic knowledge of computer science via this [book](https://csdiy.wiki/).
+- I'm a college student majoring in automation, and I have basic knowledge of `Python`, `C`, and `MATLAB`.
 
 ## Featured Project
 
-- [`AET-WCLL`](https://github.com/xiaolefrank/WCLL) : a weakly supervised cell-localization project that turns image-level classification evidence into localization masks with adaptive thresholding and post-processing. I built the training, inference, and evaluation pipeline as my main recent research-oriented project.
+- [`AET-WCLL`](https://github.com/MingyangLin/WCLL): a weakly supervised cell-localization project that turns image-level classification evidence into localization masks with adaptive thresholding and post-processing. I built the training, inference, and evaluation pipeline as my main recent research-oriented project.
 
 ## Currently learning
 
 - [ ] [Web development](https://weblab.mit.edu/schedule)
-- [ ] Computer Networking
-- [ ] LaTex
+- [x] Computer Networking
+- [x] LaTeX
 - [ ] Docker
-- [ ] Git and Github Flow (command line)
+- [x] Git and GitHub Flow (command line)
 - [ ] Intro to Deep Learning
 - [x] Vibe Coding
 - [ ] Japanese
 
-*I believe that computer science have its unique charm,which can be described as:*
+## Blogs
 
-***While an ugly interface has to be memorized,a beautiful design can be understood.***
+- [TimSort From Scratch For Python](https://zhuanlan.zhihu.com/p/2079126375219385838) [ZH] — September 4th, 2026
+
+- [Tournament Sort](https://zhuanlan.zhihu.com/p/9859999644) [ZH] — November 29th, 2024
+
+***I love taking on challenges and exploring new things.***
