@@ -12,7 +12,7 @@
 
 ## Agent Configuration
 
-[agent-config](https://github.com/MingyangLin/agent-config): My collection of agent configurations and workflows, including locally maintained skills, Serena MCP setup, hooks, and others.
+- [`agent-config`](https://github.com/MingyangLin/agent-config): My collection of agent configurations and workflows, including locally maintained skills, Serena MCP setup, hooks, and others.
 
 ## Currently learning
 
