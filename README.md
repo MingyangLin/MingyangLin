@@ -10,6 +10,10 @@
 
 - [`Platform_sjtu`](https://github.com/dinglei282919/Platform_sjtu): An industrial process safety and control platform where I developed the risk-control modules: DNN/MPC training and optimization, adaptive control under false-data injection(FDI) and replay attacks, and multivariable process self-healing control.
 
+## Agent Configuration
+
+[agent-config](https://github.com/MingyangLin/agent-config): My collection of agent configurations and workflows, including locally maintained skills, Serena MCP setup, hooks, and others.
+
 ## Currently learning
 
 - [ ] [Web development](https://weblab.mit.edu/schedule)
