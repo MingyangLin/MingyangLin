@@ -13,6 +13,8 @@
 ## Agent Configuration
 
 - [`agent-config`](https://github.com/MingyangLin/agent-config): My collection of agent configurations and workflows, including locally maintained skills, Serena MCP setup, hooks, and others.
+  - [`commit-message`](https://github.com/MingyangLin/agent-config/tree/main/skills/commit-message): A skill I built to review Git changes and draft Conventional Commits messages without staging or committing files.
+  - [`project-hygiene`](https://github.com/MingyangLin/agent-config/tree/main/skills/project-hygiene): A skill I built to organize project files, clean up disposable task outputs, and summarize file changes while following project conventions.
 
 ## Currently learning
 
