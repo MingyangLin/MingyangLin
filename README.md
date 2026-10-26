@@ -1,5 +1,7 @@
 # About me :) 👋
 
+**I am preparing for Fall 2027 master’s applications and exploring labs working on computer vision and text-to-speech (TTS).**
+
 - You can call me ***frank***.
 
 - I'm a college student majoring in automation, and I have basic knowledge of `Python`, `C`, and `MATLAB`.
